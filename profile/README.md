@@ -3,8 +3,9 @@
 Open source tools for musicians and studios: audio plug-ins with an analog, hands-on feel, MIDI utilities and
 controllers for outboard gear.
 
-> **Work in progress.** The plug-ins and the tools are under active development. The images below are rendered from the
-> HTML previews of the panels, not from the finished plug-ins.
+> **Work in progress.** The plug-ins and the tools are under active development. The Fairy Tapes images below are
+> rendered from the HTML previews of the panels, not from the finished plug-ins; the Swingers image is rendered from the
+> plug-in itself.
 
 Created and maintained by [@swolley](https://github.com/swolley).
 
@@ -27,7 +28,7 @@ A suite of VST3 audio plug-ins with rack-style panels, worn hardware and handwri
 
 |  | Repository | What it is | License |
 |---|---|---|---|
-| *Preview coming soon* | [swingers](https://github.com/sweetspot-tools/swingers) | Converts MIDI drum parts between drum maps through General MIDI, as a VST3, AU and CLAP plug-in and as a standalone app | AGPL-3.0 |
+| <img src="https://raw.githubusercontent.com/sweetspot-tools/.github/main/profile/images/swingers-compact.png" width="360" alt="Swingers"> | [swingers](https://github.com/sweetspot-tools/swingers) | Converts MIDI drum parts between drum maps through General MIDI, as a VST3, AU and CLAP plug-in and as a standalone app | AGPL-3.0 |
 | *Preview coming soon* | [turn-me-on](https://github.com/sweetspot-tools/turn-me-on) | Browser MIDI controller for outboard gear: build a virtual rack of devices and drive them over WebMIDI | MIT |
 
 ## Get involved
