@@ -29,7 +29,7 @@ A suite of VST3 audio plug-ins with rack-style panels, worn hardware and handwri
 |  | Repository | What it is | License |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/sweetspot-tools/.github/main/profile/images/swingers-compact.png" width="360" alt="Swingers"> | [swingers](https://github.com/sweetspot-tools/swingers) | Converts MIDI drum parts between drum maps through General MIDI, as a VST3, AU and CLAP plug-in and as a standalone app | AGPL-3.0 |
-| *Preview coming soon* | [turn-me-on](https://github.com/sweetspot-tools/turn-me-on) | Browser MIDI controller for outboard gear: build a virtual rack of devices and drive them over WebMIDI | MIT |
+| <img src="https://raw.githubusercontent.com/sweetspot-tools/.github/main/profile/images/turn-me-on.png" width="360" alt="Turn Me On"> | [turn-me-on](https://github.com/sweetspot-tools/turn-me-on) | Browser MIDI controller for outboard gear: build a virtual rack of devices and drive them over WebMIDI | MIT |
 
 ## Get involved
 
